@@ -1,0 +1,21 @@
+{
+  "name": "nexai-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.22",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "react-icons": "^4.11.0",
+    "react-spinners": "^0.13.8"
+  }
+}
